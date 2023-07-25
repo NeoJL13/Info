@@ -2,7 +2,8 @@
 This was one of the first apps I made while learning about Flutter
 ## About my app: ui_interface
 It contains personal information such as my phone number and email
-<img src="[image](https://photos.app.goo.gl/PtVg2f8y8o5hFkwY9" alt="my display">
+<img src="[image](" alt="my display">
+[![Cat image](https://photos.app.goo.gl/PtVg2f8y8o5hFkwY9)](https://photos.app.goo.gl/xxxxxxxxxxxxxxxxx)
 ## Knowledge learned
 How to create Stateless Widgets
 What is hot reload and hot refresh
