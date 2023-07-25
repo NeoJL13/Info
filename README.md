@@ -1,4 +1,4 @@
-# android 
+# Android App  
 This was one of the first apps I made while learning about Flutter
 ## About my app: ui_interface
 It contains personal information such as my phone number and email
