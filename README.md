@@ -2,7 +2,7 @@
 This was one of the first apps I made while learning about Flutter
 ## About my app: ui_interface
 It contains personal information such as my phone number and email
-![UI](https://photos.app.goo.gl/PtVg2f8y8o5hFkwY9)
+![UI photo](https://photos.app.goo.gl/PtVg2f8y8o5hFkwY9)
 ## Knowledge learned
 How to create Stateless Widgets
 What is hot reload and hot refresh
